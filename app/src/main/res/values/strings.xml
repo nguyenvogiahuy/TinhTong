@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TinhTong</string>
+    <string name="nhap">Nhap</string>
+    <string name="nh_p_s_b">Nhập số b:</string>
+</resources>
